@@ -1457,17 +1457,12 @@ body {
 
 /* Intro */
 #intro {
-  background: url("images/overlay.png"), url("../../images/ship.jpg");
+  background: url("images/overlay.png"), url("../../images/florest.jpeg");
   background-size: 256px 256px, cover;
   background-attachment: fixed, fixed;
   background-position: top left, bottom center;
   background-repeat: repeat, no-repeat; }
 
-#intro p {
-  font-size: 2rem;
-  line-height: 2.5rem;
-  text-shadow: 1px 1px 1px #000;
-}
 
 /* o-que-faco */
 #o-que-faco {
